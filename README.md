@@ -1,3 +1,3 @@
 # CODSOFT
 This Repository Contains tasks of my Web Development &amp; Python Internship with CodSoft
-https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=608,fit=crop,q=95/Aq20eV79zLfpXV6b/logo-png-mnl7npnlXjHPl9KV.png
+<img src="https://github.com/iam-priyanshu-sharma/CODSOFT/assets/77437944/b9bf82b4-2ae5-4c28-a09b-3d88c314c522" width="100%">
